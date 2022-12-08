@@ -3,13 +3,14 @@
   <groupId>com.testpress.player</groupId>
   <artifactId>player</artifactId>
   <versioning>
-    <latest>1.0.2b</latest>
-    <release>1.0.2b</release>
+    <latest>1.0.3b</latest>
+    <release>1.0.3b</release>
     <versions>
       <version>1.0.0b</version>
       <version>1.0.1b</version>
       <version>1.0.2b</version>
+      <version>1.0.3b</version>
     </versions>
-    <lastUpdated>20221207123901</lastUpdated>
+    <lastUpdated>20221208135758</lastUpdated>
   </versioning>
 </metadata>
