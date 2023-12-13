@@ -3,8 +3,8 @@
   <groupId>com.tpstreams.player</groupId>
   <artifactId>player</artifactId>
   <versioning>
-    <latest>3.0.8b</latest>
-    <release>3.0.8b</release>
+    <latest>2.0.9b</latest>
+    <release>2.0.9b</release>
     <versions>
       <version>2.0.0b</version>
       <version>2.0.1b</version>
@@ -23,7 +23,8 @@
       <version>3.0.7b</version>
       <version>2.0.8b</version>
       <version>3.0.8b</version>
+      <version>2.0.9b</version>
     </versions>
-    <lastUpdated>20231211143341</lastUpdated>
+    <lastUpdated>20231213062458</lastUpdated>
   </versioning>
 </metadata>
