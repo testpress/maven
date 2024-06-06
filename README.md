@@ -14,10 +14,15 @@ repositories {
 ### Add player dependency to app project `build.gradle`
 
 ```
-// Use the latest version available for integration (this sample app is integrated with TPStreams).
+// Use the latest version available for integration.
 
 // To integrate the TPStreams player
 implementation 'com.tpstreams.player:player:3.0.17b'
+
+// If you're already using Exo Player in youe project, you can still integrate TPStreams Player with below implimentation.
+
+// To integrate the TPStreams player
+implementation 'com.tpstreams.player:player:2.0.17b'
 ```
 
 ### Enable Java 8 support
@@ -38,6 +43,6 @@ compileOptions {
 ```
 
 ## Documentation
-* The developer guides for [TPStreams] provide a wealth of information.
+* The [TPStreams] developer guides offer a wealth of information.
 
 [TPStreams]: https://developer.tpstreams.com/docs/mobile-sdk/android-native-sdk/getting-started
