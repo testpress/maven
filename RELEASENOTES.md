@@ -1,5 +1,13 @@
 # Release notes
 
+### 3.1.8 [Sep  16, 2025]
+
+This release aligns with version 2.1.8 and includes the following updates:
+
+* Updated Sentry Android SDK to `7.20.0` for compatibility with 16KB page size devices.
+* Verified and aligned dependencies to support 16KB page sizes.
+
+
 ### 3.1.7 [Apr  01, 2025]
 
 This release aligns with version 2.1.7 and includes the following updates:
