@@ -1,5 +1,12 @@
 # Release notes
 
+### 3.1.9 [Nov  21, 2025]
+
+This release aligns with version 2.1.9 and includes the following updates:
+
+* Added support to override the fullscreen functionality.
+* Optimized and refactored code for improved performance and maintainability.
+
 ### 3.1.8 [Sep  16, 2025]
 
 This release aligns with version 2.1.8 and includes the following updates:
