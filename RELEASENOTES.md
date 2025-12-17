@@ -1,5 +1,13 @@
 # Release notes
 
+### 3.1.10 [Dec  17, 2025]
+
+This release aligns with version 2.1.10 and includes the following updates:
+
+* Added support to DRM live stream playback.
+* Added custom metadata support for downloaded assets in startDownload API.
+* Fixed issue with Non-DRM Asset Download.
+
 ### 3.1.9 [Nov  21, 2025]
 
 This release aligns with version 2.1.9 and includes the following updates:
