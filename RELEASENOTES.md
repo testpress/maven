@@ -1,5 +1,11 @@
 # Release notes
 
+### 3.1.11 [Jan  28, 2026]
+
+This release aligns with version 2.1.11 and includes the following updates:
+
+* Expose pre-fullscreen events.
+
 ### 3.1.10 [Dec  17, 2025]
 
 This release aligns with version 2.1.10 and includes the following updates:
