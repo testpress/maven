@@ -1,5 +1,12 @@
 # Release notes
 
+### 3.1.12 [Jan  29, 2026]
+
+This release aligns with version 2.1.12 and includes the following updates:
+
+* Re-hide system bars when player control overlays are dismissed in fullscreen.
+* Prevent navigation and status bars from remaining visible after control interactions on android version <= 10.
+
 ### 3.1.11 [Jan  28, 2026]
 
 This release aligns with version 2.1.11 and includes the following updates:
