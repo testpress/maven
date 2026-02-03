@@ -1,5 +1,12 @@
 # Release notes
 
+### 3.1.13 [Feb  03, 2026]
+
+This release aligns with version 2.1.13 and includes the following updates:
+
+* Added support for player preferences to customize playback UI behavior.
+* Updated player initialization to include preference-based configuration.
+
 ### 3.1.12 [Jan  29, 2026]
 
 This release aligns with version 2.1.12 and includes the following updates:
