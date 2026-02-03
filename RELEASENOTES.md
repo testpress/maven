@@ -1,5 +1,11 @@
 # Release notes
 
+### 3.1.14 [Feb  03, 2026]
+
+This release aligns with version 2.1.14 and includes the following updates:
+
+* Enhancment in player preference
+
 ### 3.1.13 [Feb  03, 2026]
 
 This release aligns with version 2.1.13 and includes the following updates:
