@@ -1,5 +1,11 @@
 # Release notes
 
+### 3.1.15 [Feb 18, 2026]
+
+This release aligns with version 2.1.15 and includes the following updates:
+
+* Added `onReplay` event in `TPStreamPlayerListener` to explicitly signal replay button interactions.
+
 ### 3.1.14 [Feb  03, 2026]
 
 This release aligns with version 2.1.14 and includes the following updates:
