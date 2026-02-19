@@ -1,5 +1,11 @@
 # Release notes
 
+### 3.1.16 [Feb 19, 2026]
+
+This release aligns with version 2.1.16 and includes the following updates:
+
+* Standardized default seek increments to 10s for both forward and backward.
+
 ### 3.1.15 [Feb 18, 2026]
 
 This release aligns with version 2.1.15 and includes the following updates:
