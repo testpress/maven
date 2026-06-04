@@ -1,48 +1,24 @@
-# Getting Started
-This SDK enables you to securely stream DRM-protected videos through your Android app.
+# ⛔️ DEPRECATED
 
-### Add TPStreams maven repo to app module's `build.gradle`
+> **NOTICE:** This repository is no longer maintained, updated, or supported.
+>
+> Please migrate to **TPStreamsAndroidPlayer**:
+>
+> - GitHub: https://github.com/testpress/TPStreamsAndroidPlayer
+> - JitPack: https://jitpack.io/#testpress/TPStreamsAndroidPlayer
 
-```
-repositories {
-    maven {
-        url "https://github.com/testpress/maven/raw/main/repo"
-    }
-}
-```
+---
 
-### Add player dependency to app project `build.gradle`
+## 🚀 Migration
 
-```
-// Use the latest version available for integration.
+All future development, bug fixes, and feature enhancements are available in **TPStreamsAndroidPlayer**.
 
-// To integrate the TPStreams player
-implementation 'com.tpstreams.player:player:3.1.16'
+### Repository
+https://github.com/testpress/TPStreamsAndroidPlayer
 
-// If you're already using Exo Player in youe project, you can still integrate TPStreams Player with below implimentation.
+### Installation
+https://jitpack.io/#testpress/TPStreamsAndroidPlayer
 
-// To integrate the TPStreams player
-implementation 'com.tpstreams.player:player:2.1.16'
-```
+---
 
-### Enable Java 8 support
-
-You also need to ensure Java 8 support is enabled by adding the following block to each of your app module's `build.gradle` file inside the `android` block:
-
-```
-compileOptions {
-    sourceCompatibility JavaVersion.VERSION_1_8
-    targetCompatibility JavaVersion.VERSION_1_8
-}
-```
-
-### Using ProGuard
-
-```
--keep class com.tpstream.player.** { *; }
-```
-
-## Documentation
-* The [TPStreams] developer guides offer a wealth of information.
-
-[TPStreams]: https://developer.tpstreams.com/docs/mobile-sdk/android-native-sdk/getting-started
+Thank you to everyone who contributed to this project! This repository remains available as a read-only archive for historical reference.
